@@ -1,3 +1,5 @@
+#Richella O'Driscoll 2018-02-26
+
 squares = [1,4,9,16,25]
 
 i =  0
